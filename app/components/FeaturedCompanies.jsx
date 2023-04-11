@@ -2,7 +2,7 @@ import Image from "next/image";
 import capri from "../assets/companieslogo/capri.png";
 import fino from "../assets/companieslogo/fino.png";
 import gravita from "../assets/companieslogo/gravita.png";
-import hira from "../assets/companieslogo/Hira.png";
+import hira from "../assets/companieslogo/hira.png";
 const FeaturedCompanies = () => {
   return (
     <div>
